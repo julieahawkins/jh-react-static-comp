@@ -38,7 +38,7 @@ const stories = [
     authName: 'Pamela',
     estTime: '11 min'
   }
-]
+];
 
 const App = () => {
   return (

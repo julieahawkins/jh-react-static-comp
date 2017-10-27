@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <div className='Footer'>
-        <a href='#'>c 2017</a>
+        <a href='#'>&copy; 2017</a>
     </div>
   )
 }
