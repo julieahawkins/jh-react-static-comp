@@ -6,7 +6,7 @@ import './Story.css';
 const Story = (props) => {
   return (
     <div className='Story'>
-      <img src={props.img} />
+      <img src={props.img} className="story-image"/>
       <div className='story-info'>
         <div>
           <h3>{props.title}</h3>
